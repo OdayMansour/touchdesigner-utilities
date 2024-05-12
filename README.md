@@ -1,6 +1,6 @@
 # TouchDesigner Utilities
 
-This is a collection of useful Components that I use in my TouchDesigner projects
+This is a collection of useful Components that I use in my TouchDesigner projects. 
 
 ## Components
 
@@ -11,7 +11,7 @@ Accepts an audio stream as input, outputs:
 - Levels: audio levels on low, mid, high, and all frequencies
 - Averages: average audio levels over the last _n_ seconds (configurable) on low, mid, high, and all frequencies
 - Speeds: continuously increasing values based on the audio levels on low, mid, high, and all frequencies
-- Frequency spectrume: output of an FFT on the input audio signal, configurable number of bands
+- Frequency spectrum: output of an FFT on the input audio signal, configurable number of bands
 
 ### midi_novation_launchcontrol.toe
 
